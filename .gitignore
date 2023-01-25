@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!VARIOHAUS_Fenster_Preisbuch_0621_nudle_Final.ipynb
